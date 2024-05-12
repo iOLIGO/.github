@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../docs/imgs/oligo_logo.png">
+<img src="https://github.com/iOLIGO/.github/blob/main/docs/imgs/oligo_logo.png">
 
 </div>
 
